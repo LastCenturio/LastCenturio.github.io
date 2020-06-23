@@ -10,4 +10,6 @@ Thrall ist ein Charakter aus den Spielen Warcraft 3 und World of Warcraft. Mit "
 * Hautfarbe: Grün
 * Augenfarbe: Blau
 
+## Zitat
+> Ruhm und Ehre!
 
