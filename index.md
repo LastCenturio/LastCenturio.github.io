@@ -13,3 +13,6 @@ Thrall ist ein Charakter aus den Spielen Warcraft 3 und World of Warcraft. Mit "
 ## Zitat
 > Ruhm und Ehre!
 
+#Bild
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/427164-thrall.jpg"/>
+
