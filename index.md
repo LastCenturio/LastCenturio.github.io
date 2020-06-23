@@ -1,1 +1,3 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Der Helde der keiner sein wollte - Thrall
+
+Thrall ist ein Charakter aus den Spielen Warcraft 3 und World of Warcraft. Mit "Der Lord der Clans" wurde seine Geschite in ein Buch verpackt.
